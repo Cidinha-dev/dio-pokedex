@@ -5,7 +5,9 @@
     padding: 0;
     list-style: none;
 }
-
+h1{
+    color:#fff;
+}
 .normal {
     background-color: #a6a877;
 }
@@ -87,7 +89,7 @@
 }
 
 .pokemon .number {
-    color: #000;
+    color: #fff;
     opacity: .3;
     text-align: right;
     font-size: .625rem;
